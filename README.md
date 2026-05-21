@@ -1,4 +1,7 @@
 # -arsolon_LW4.ipynb
+
+https://drive.google.com/drive/folders/1yocHYuwYPzoUgoTHHm8BfPya20mADRt2?usp=drive_link
+
 https://colab.research.google.com/drive/1YMT7eTu4XCR2jmxwkFt3-w1N_TLJuxnV?usp=sharing
 
 Based on the contents of the provided Google Colab notebook, here is a detailed, structured analysis to answer the reflection guide questions for your Deep Learning model (which classifies skin lesions into Melanoma (MEL), Nevus (NV), and Basal Cell Carcinoma (BCC)).
